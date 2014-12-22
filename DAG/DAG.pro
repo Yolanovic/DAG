@@ -14,6 +14,7 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         dagmainwindow.cpp
+QT += sql
 
 HEADERS  += dagmainwindow.h
 
